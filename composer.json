@@ -1,0 +1,14 @@
+{
+    "name": "sunnyflail/constraints",
+    "description": "A simple validation library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SunnyFlail\\Constraints\\": "src/"
+        }
+    },
+    "require": {
+        "psr/http-message": "^1.0"
+    }
+}
